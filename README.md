@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vaibhhav Goyal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+- :seedling: Exploring Technical Content Writing.
+
 - 📫 How to reach me **goyalvaibhav567@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+ [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavgoyal2307/)
 <p align="left">
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
