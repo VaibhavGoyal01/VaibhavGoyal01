@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavgoyal2307/)
+ [![Linkedin Badge](https://img.shields.io/badge/-Vaibhav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavgoyal2307/)
 <p align="left">
   
 </p>
